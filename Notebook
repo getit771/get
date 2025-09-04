@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "metadata": {},
+   "metadata": {}, 
    "source": [
     "# NHL Top Point Scorers (2014–2024)\n",
     "This notebook visualizes the NHL's top point scorer for each season from 2014 to 2024."
@@ -80,7 +80,7 @@
     "- Data sourced from Hockey Reference and Wikipedia.\n",
     "- Update the dataset as new seasons finish or if you want to include more players or statistics."
    ]
-  }
+  } 
  ],
  "metadata": {
   "kernelspec": {
